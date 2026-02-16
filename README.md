@@ -18,7 +18,7 @@ Currently working on designing and managing scalable infrastructure solutions, i
 - Docker & Kubernetes
 - Terraform & Infrastructure as Code
 - CI/CD (GitHub Actions, Jenkins)
-- Cloud Platforms (Azure / Cloud-native environments)
+- Cloud Platforms (AWS / Cloud-native environments)
 - Monitoring & Troubleshooting
 
 ## 🌱 Currently Learning
